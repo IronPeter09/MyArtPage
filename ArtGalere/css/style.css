@@ -1,0 +1,17 @@
+/* 1 step */
+body {
+    margin: 0 auto;
+}
+
+.md-container {
+    width: 1440px;
+    height: 900px;
+    background: #FFF8EE;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.md-left-menu{
+    display: flex;
+    margin-left: 100px;
+}
